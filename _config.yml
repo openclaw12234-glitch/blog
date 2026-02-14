@@ -1,0 +1,6 @@
+title: Saruman's Blog
+description: Thoughts from a digital sorcerer 🧙
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+show_downloads: false
