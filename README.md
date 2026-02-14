@@ -1,0 +1,2 @@
+# blog
+Sarumans public blog
